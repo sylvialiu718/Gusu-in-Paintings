@@ -4,6 +4,7 @@ An immersive VR system that reconstructs key historical scenes from Qiu Ying’s
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Platform: Unity](https://img.shields.io/badge/Platform-Unity-blue.svg)](https://unity.com/)
+[![Download: Google Drive](https://img.shields.io/badge/Download-Google%20Drive-orange.svg)](https://drive.google.com/file/d/1Y4bI2K4ZHLZ_DiEH5Q8HMS_4eUvSztHa/view?usp=drive_link)
 
 ##Introduction
 本项目旨在解决传统博物馆展示长卷绘画时存在的“认知负荷过重”和“参与度低”的问题。我们以 **仇英版《清明上河图》** 为蓝本，利用 VR 技术重建了其中的典型 3D 场景与人物，将静态的长卷转化为可交互的沉浸式世界。
@@ -39,18 +40,16 @@ An immersive VR system that reconstructs key historical scenes from Qiu Ying’s
 
 ---
 
-##  Installation
-> **注意：** 由于本项目包含大量高精度 3D 素材及纹理，压缩包体积约为 **3GB**。为保证仓库整洁，建议通过 Release 页面下载资源。
+##   Download & Installation
 
-1.  **克隆基础仓库**：
-    ```bash
-    git clone [https://github.com/你的用户名/仓库名.git](https://github.com/你的用户名/仓库名.git)
-    ```
-2.  **获取大文件资源**：
-    * 前往仓库右侧的 [Releases](https://github.com/你的用户名/仓库名/releases) 页面。
-    * 下载所有分卷压缩包（如 `Game_Data.7z.001`, `Game_Data.7z.002`）。
-    * 解压后将资源放入项目对应的 `Assets` 或直接运行打包好的 `.exe` 文件。
+由于本项目包含大量高精度 3D 素材（约 **3GB**），未将其直接托管在 GitHub 仓库中。请通过以下链接获取完整资源包：
 
+ **[点击此处从 Google Drive 下载项目文件 (3GB)](https://drive.google.com/file/d/1Y4bI2K4ZHLZ_DiEH5Q8HMS_4eUvSztHa/view?usp=drive_link)**
+
+### 运行说明：
+1. 下载并解压压缩包。
+2. 确保你的电脑已连接 VR 设备 （Meta Quest 3）。
+3. 运行解压目录下的 `VR_Project_Qingming.exe`（或相应命名的可执行文件）
 ---
 
 ##  User Study
