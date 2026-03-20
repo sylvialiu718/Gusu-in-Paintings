@@ -36,7 +36,7 @@ An immersive VR system that reconstructs key historical scenes from Qiu Ying’s
 * **开发引擎**: Unity
 * **建模工具**: Blender (3D 场景与人物建模)
 * **交互逻辑**: C# / Unity XR Interaction Toolkit
-* **适配硬件**: VR 头显及控制器 (如 Meta Quest 2/3, HTC Vive)
+* **适配硬件**: VR 头显及控制器 (如 Meta Quest 3, HTC Vive)
 
 ---
 
@@ -48,7 +48,7 @@ An immersive VR system that reconstructs key historical scenes from Qiu Ying’s
 
 ### 运行说明：
 1. 下载并解压压缩包。
-2. 确保你的电脑已连接 VR 设备 （Meta Quest 3）。
+2. 确保你的电脑已连接 VR 设备 （Meta Quest 3，HTC Vive）。
 3. 运行解压目录下的 `VR_Project_Qingming.exe`（或相应命名的可执行文件）
 ---
 
