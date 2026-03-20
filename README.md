@@ -67,7 +67,7 @@ An immersive VR system that reconstructs key historical scenes from Qiu Ying’s
 ---
 
 ##  System Preview
-![System Flowchart](./system.jpg)
+![System Flowchart](./system.png)
 *图 1: 系统交互逻辑与模式选择流程图*
 
 ---
